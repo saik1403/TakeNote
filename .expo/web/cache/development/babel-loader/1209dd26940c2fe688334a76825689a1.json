@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { deleteNote } from \"./note/noteActions\";","map":{"version":3,"sources":["C:/Users/Saikiran Kolluru/Desktop/TakeNote/redux/index.js"],"names":["deleteNote"],"mappings":"AAAA,SAAQA,UAAR","sourcesContent":["export {deleteNote} from './note/noteActions';"]},"metadata":{},"sourceType":"module"}
